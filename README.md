@@ -46,6 +46,7 @@ FROM vine_table
 | **total_reviews** | **num_five_star_reviews** | **pct_paid_reviews** | **pct_unpaid_reviews** |
 |-------------------|---------------------------|----------------------|------------------------|
 | 1752932           | 1070258                   | 49.75206611570248    | 61.133871620006985     |
+
 <sup>Results are also saved here:  [Vine_Review_Analysis_Results.csv](Vine_Review_Analysis_Results.csv)</sup> 
 
 ## Summary 
